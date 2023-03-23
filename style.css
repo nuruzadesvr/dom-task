@@ -1,0 +1,28 @@
+.custom{
+    width: 100%; 
+    min-height:700px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}   
+
+.card_2{
+    width: 100%; 
+    min-height:700px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}    
+
+
+.show{
+    display: flex;
+}
+
+.hide{
+    display:none;
+}
